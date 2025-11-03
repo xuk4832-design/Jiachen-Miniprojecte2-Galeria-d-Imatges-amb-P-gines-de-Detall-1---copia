@@ -1,0 +1,1 @@
+# Jiachen-Miniprojecte2-Galeria-d-Imatges-amb-P-gines-de-Detall
