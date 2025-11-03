@@ -1,9 +1,9 @@
 /*Enlaces interactivos*/
 
 a:hover {
-    transform: scale(1.05); /* pequeño aumento de tamaño */
-    filter: brightness(1.2); /* más brillo */
-    transition: all 0.3s ease; /* animación suave */
+    transform: scale(1.05); 
+    filter: brightness(1.2);
+    transition: all 0.3s ease; 
 }
 
 /*Modificacion de la resolucion*/
